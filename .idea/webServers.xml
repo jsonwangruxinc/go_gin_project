@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1370c64c-7065-4c18-b065-6ac71c7dfae3" name="gin">
+        <fileTransfer rootFolder="/data/go_gin_project" accessType="SFTP" host="10.18.1.27" port="22" sshConfigId="823906f0-4f90-4f2b-8f7f-fcc9cd3b0f40" sshConfig="root@10.18.1.27:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+{"file":"/data/go_gin_project/main.go:79","func":"main.main","level":"warning","msg":"The group's number increased tremendously!","number":122,"omg":true,"time":"2023-09-11T18:10:41+08:00"}
+{"file":"/data/go_gin_project/main.go:84","func":"main.main","level":"fatal","msg":"The ice breaks!","number":100,"omg":true,"time":"2023-09-11T18:10:41+08:00"}
+{"file":"/data/go_gin_project/main.go:79","func":"main.main","level":"warning","msg":"The group's number increased tremendously!","number":122,"omg":true,"time":"2023-09-11T18:11:25+08:00"}
+{"file":"/data/go_gin_project/main.go:84","func":"main.main","level":"fatal","msg":"The ice breaks!","number":100,"omg":true,"time":"2023-09-11T18:11:25+08:00"}
+{"file":"/data/go_gin_project/main.go:79","func":"main.main","level":"warning","msg":"The group's number increased tremendously!","number":122,"omg":true,"time":"2023-09-11T18:11:26+08:00"}
+{"file":"/data/go_gin_project/main.go:84","func":"main.main","level":"fatal","msg":"The ice breaks!","number":100,"omg":true,"time":"2023-09-11T18:11:26+08:00"}
+{"file":"/data/go_gin_project/main.go:79","func":"main.main","level":"warning","msg":"The group's number increased tremendously!","number":122,"omg":true,"time":"2023-09-11T18:11:27+08:00"}
+{"file":"/data/go_gin_project/main.go:84","func":"main.main","level":"fatal","msg":"The ice breaks!","number":100,"omg":true,"time":"2023-09-11T18:11:27+08:00"}
+{"file":"/data/go_gin_project/main.go:79","func":"main.main","level":"warning","msg":"The group's number increased tremendously!","number":122,"omg":true,"time":"2023-09-11T18:11:28+08:00"}
+{"file":"/data/go_gin_project/main.go:84","func":"main.main","level":"fatal","msg":"The ice breaks!","number":100,"omg":true,"time":"2023-09-11T18:11:28+08:00"}
